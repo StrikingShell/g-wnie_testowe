@@ -3,9 +3,9 @@
 
 int main()
 {
-    printf("Mateusz Marat\n");
+    printf("WIRUS\n");
     printf("Mateusz\nMarat\n");
-    printf("Mateusz ");
-    printf("Marat\n");
+    printf("WIRUS ");
+    printf("WATYKANCZYK\n");
     return 0;
 }
